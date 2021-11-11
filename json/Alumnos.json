@@ -1,0 +1,87 @@
+[
+  {
+    "Alumno": "100",
+    "Nombre": "Edgar",
+    "Apellido": "Merida",
+    "Correo": "edgar@gmail.com",
+    "Contraseña": "entrar",
+    "Imagen": "https://picsum.photos/30/36/?random"
+  },
+  {
+    "Alumno": "200",
+    "Nombre": "Alan",
+    "Apellido": "Hernandez",
+    "Correo": "alan@gmail.com",
+    "Contraseña": "123",
+    "Imagen": "https://picsum.photos/29/37/?random"
+  },
+  {
+    "Alumno": "300",
+    "Nombre": "Carlos",
+    "Apellido": "Rodriguez",
+    "Correo": "carlos@gmail.com",
+    "Contraseña": "1234",
+    "Imagen": "https://picsum.photos/30/35/?random"
+  },
+  {
+    "Alumno": "400",
+    "Nombre": "Luisa",
+    "Apellido": "Peres",
+    "Correo": "luisa@gmail.com",
+    "Contraseña": "abc",
+    "Imagen": "https://picsum.photos/31/36/?random"
+  },
+{
+    "Alumno": "500",
+    "Nombre": "Jose",
+    "Apellido": "Morales",
+    "Correo": "jose@gmail.com",
+    "Contraseña": "111",
+    "Imagen": "https://picsum.photos/30/36/?random"
+  },
+{
+    "Alumno": "600",
+    "Nombre": "Rodolfo",
+    "Apellido": "Madrid",
+    "Correo": "rodolfo@gmail.com",
+    "Contraseña": "aaa",
+    "Imagen": "https://picsum.photos/31/30/?random"
+  },
+{
+    "Alumno": "700",
+    "Nombre": "Majo",
+    "Apellido": "Olivares",
+    "Correo": "majo@gmail.com",
+    "Contraseña": "bcda",
+    "Imagen": "https://picsum.photos/29/32/?random"
+  },
+{
+    "Alumno": "800",
+    "Nombre": "Oscar",
+    "Apellido": "Zamora",
+    "Correo": "oscar@gmail.com",
+    "Contraseña": "bbbb",
+    "Imagen": "https://picsum.photos/31/31/?random"
+  },
+{
+    "Alumno": "900",
+    "Nombre": "Carla",
+    "Apellido": "Alvarez",
+    "Correo": "carla@gmail.com",
+    "Contraseña": "1a2b3c",
+    "Imagen": "https://picsum.photos/36/30/?random"
+  },
+{
+    "Alumno": "1000",
+    "Nombre": "Estuard",
+    "Apellido": "Mendez",
+    "Correo": "estuard@gmail.com",
+    "Contraseña": "4321",
+    "Imagen": "https://picsum.photos/35/35/?random"
+  }
+]
+
+
+
+
+
